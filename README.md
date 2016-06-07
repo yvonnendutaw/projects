@@ -78,6 +78,6 @@ Foundation 6
 
 
 **Contributors**
- Yvonne Nduta
- Qusai Alfaki
- Andrew Anampiu
+ 1. Yvonne Nduta
+ 2. Qusai Alfaki
+ 3. Andrew Anampiu
