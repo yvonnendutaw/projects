@@ -78,6 +78,6 @@ Foundation 6
 
 
 **Contributors**
- 1. Yvonne Nduta
- 2. Qusai Alfaki
- 3. Andrew Anampiu
+ 1. [Yvonne Nduta](https://github.com/yvonnendutaw)
+ 2. [Qusai Alfaki](https://github.com/syntaxSizer)
+ 3. [Andrew Anampiu](https://github.com/anampiu)
