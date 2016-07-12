@@ -3,16 +3,16 @@
 ## Personal projects 
 
 
-# liquid-design-agency-website
+# GalaFitness Personal Trainer
 ____________________
 
 **Repo Link**
 
-https://github.com/yvonnendutaw/design-agency
+https://github.com/yvonnendutaw/galafitness
 
 **Project Details**
 
-This is a web design agency website.
+This is a website that showcases the Galafitness trainers that have different kind of services.
 
 
 **Features**
@@ -20,7 +20,7 @@ One-page website
 NavBar Links: 
  1. Home 
  2. About us
- 3. Portfolio
+ 3. Services
  4. Contact us
 
 **Tools**
